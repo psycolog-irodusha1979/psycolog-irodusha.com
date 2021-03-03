@@ -1,0 +1,162 @@
+#a1{
+	background-color: #40becf;
+	height: 500px;
+}
+
+#b0 {
+	font-size: 15px;
+	color:#ddd;
+	display: flex;
+	padding-right: 45px;
+	padding-bottom: 80px;
+	padding-left: 175px;
+	padding-top: 50px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+#b1 {
+	font-size: 20px;
+	color:#ddd;
+	text-align: center;
+	padding-right: 45px;
+	padding-bottom: 80px;
+	padding-left:750px;
+	text-transform: uppercase;
+	text-decoration: none;
+
+}
+#b0 .a a {
+	text-transform: uppercase;
+	text-decoration: none;
+
+}
+
+#num {
+	text-align: right;
+
+}
+
+.a {
+	margin-right: 40px;
+
+}
+
+#n {
+	font-size: 14px;
+	text-align: center;
+}
+
+.st {
+	margin-top: 80px;
+	margin-left: 170px;
+	border: 3px solid #ccc;
+	background-color: rgba(0, 0, 25, 0.2);
+	height: 40px;
+	width: 350px;
+}
+
+.st:hover {
+	transition-duration: 2s; 
+	margin-top: 80px;
+	margin-left: 170px;
+	border: 3px solid #ccc;
+	background-color: rgba(0, 0, 25, 0.7);	
+}
+
+#e {
+	text-transform: uppercase;
+	text-decoration: none;	
+}
+
+a {
+	color: #ddd;
+}
+#p {
+	background-color: #fff;
+}
+
+#ps {
+	display: flex;
+}
+
+#p1 {
+	align-self: left;
+	margin-bottom: 5px;
+	margin-left: 170px;
+	margin-right: 100px;
+	height: 500px;
+	width: 300px;
+}
+
+#p1p {
+	text-align: left;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 17px;	
+}
+
+#im1 {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 220px;
+	height: 180px;
+}
+
+#im1:hover {
+	height: 210px;
+	width: 250px;
+	transition-duration: 1.5s; 
+}
+
+#p2 {
+	align-self: right;
+	margin-bottom: 5px;
+	margin-right: 170px;
+	margin-right: 100px;
+	height: 500px;
+	width: 300px;
+}
+
+#p2p {
+	text-align: right;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 17px;	
+}
+
+#im2 {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 220px;
+	height: 180px;
+}
+
+#im2:hover {
+	height: 210px;
+	width: 250px;
+	transition-duration: 1.5s;
+}
+
+.copy {
+	background-color: #000;
+	height: 100px;
+}
+
+small {
+	color: #c8d162;
+	text-align: center;
+}
+
+#tel {
+	color: #c8d162;
+	text-align: center;	
+}
